@@ -54,7 +54,7 @@ function App() {
               href="https://github.com/kunalwagh77"
               target="_blank"
             >
-              <button className="outline">
+              <button >
                 GitHub
               </button>
             </a>
@@ -259,7 +259,7 @@ function App() {
     </p>
 
     <a
-      href="/Kunal_Wagh_Resume.pdf"
+      href="/updatedresume2026.pdf"
       download
     >
       <button>
